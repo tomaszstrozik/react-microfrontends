@@ -5,9 +5,11 @@ import './index.scss';
 
 import DefaultLayout from 'shell/DefaultLayout';
 
+import ProductList from './components/ProductList';
+
 const App = () => (
     <DefaultLayout>
-        <h1>Products Page</h1>
+        <ProductList />
     </DefaultLayout>
 );
 
