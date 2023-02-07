@@ -7,7 +7,7 @@ import DefaultLayout from 'shell/DefaultLayout';
 
 const App = () => (
     <DefaultLayout>
-        <h1>Product Page</h1>
+        <h1>Products Page</h1>
     </DefaultLayout>
 );
 
